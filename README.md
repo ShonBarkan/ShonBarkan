@@ -1,6 +1,6 @@
 ### Hello World, I'm Shon  👋
 
- <img align="right" alt="GIF" src="https://github.com/ShonBarkan/ShonBarkan/blob/main/programmer.gif" width="500" height="300" />
+ <img align="right" alt="GIF" src="https://github.com/ShonBarkan/ShonBarkan/blob/main/programmer.gif" width="450" height="300" />
 
 
 ## I'm a FULL STACK developer!!
