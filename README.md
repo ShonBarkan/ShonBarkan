@@ -10,7 +10,7 @@
 
 ### Talk with me, I am kinda awesome:
 <!-- [<img  src="" />][] -->
-<a align="left" width="22px" href="https://www.linkedin.com/in/shon-barkan-7b1886247/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></img></a>
+<a  href="https://www.linkedin.com/in/shon-barkan-7b1886247/"><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></img></a>
 <br />
 
 ### Languages and Tools:
