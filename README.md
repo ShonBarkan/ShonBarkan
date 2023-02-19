@@ -5,10 +5,10 @@
 
 ## I'm a FULL STACK developer!!
 - 🔭 I’m currently working on get my first job.
-- 💬 Ask me about ... Anything
+- 📫 How to reach me: shon.barkan@gmail.com
 
 
-### You can find me:
+### You can find me at:
 <!-- [<img  src="" />][] -->
 <a  href="https://www.linkedin.com/in/shon-barkan-7b1886247/"><img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></img></a>
 
