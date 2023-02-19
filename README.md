@@ -3,13 +3,13 @@
  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
-## I'm a young FULL STACK developer looking to learn and challenge himself in interesting projects!!
+## I'm a FULL STACK developer!!
 - 🔭 I’m currently working on get my first job.
 - 💬 Ask me about ... Anything
 
 
 ### Talk with me, I am kinda awesome:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][[linkedin](https://www.linkedin.com/in/shon-barkan-7b1886247/)]
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[https://www.linkedin.com/in/shon-barkan-7b1886247/]
 
 <br />
 
